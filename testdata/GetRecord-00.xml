@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./oai2.xsl" type="text/xsl"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2017-09-11T13:56:47Z</responseDate>
+  <request verb="GetRecord" identifier="oai:www.zvdd.de:urn:nbn:de:bsz:25-digilib-147190" metadataPrefix="mets">http://www.zvdd.de/oai2/</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:www.zvdd.de:urn:nbn:de:bsz:25-digilib-147190</identifier>
+        <datestamp>2017-09-10T02:19:02Z</datestamp>
+        <setSpec>druckschriften.dl.ub.uni.freiburg.de</setSpec>
+      </header>
+      <metadata>
+        <mets:mets xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dwork="http://www.ub.uni-heidelberg.de/__NO_SUCH_SCHEMA__" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mets="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dv="http://dfg-viewer.de/" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2008/02/11/dc.xsd">
+          <mets:dmdSec ID="dmd">
+            <mets:mdWrap MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods>
+                  <mods:titleInfo>
+                    <mods:title own="Klostergeschichte der Altstadt-Salzwedel">Klostergeschichte der Altstadt-Salzwedel</mods:title>
+                    <mods:subTitle>womit die Herren Ephoren, Patronen, Gönner und Freunde der Schule zur Anhörung ... gehorsamst ergebenst einladet</mods:subTitle>
+                  </mods:titleInfo>
+                  <mods:name valueURI="http://d-nb.info/gnd/1129264564" type="personal" authorityURI="http://d-nb.info/gnd/" authority="gnd">
+                    <mods:namePart type="family">Dunker</mods:namePart>
+                    <mods:namePart type="given">Daniel Johann</mods:namePart>
+                    <mods:displayForm>Dunker, Daniel Johann</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:originInfo>
+                    <mods:place>
+                      <mods:placeTerm type="text">Salzwedel</mods:placeTerm>
+                    </mods:place>
+                    <mods:dateIssued keyDate="yes" encoding="w3cdtf">1781</mods:dateIssued>
+                    <mods:dateIssued>1781-1782</mods:dateIssued>
+                  </mods:originInfo>
+                  <mods:physicalDescription>
+                    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+                  </mods:language>
+                  <mods:relatedItem lang="ger" type="series">
+                    <mods:titleInfo>
+                      <mods:title>Alte Drucke und Autorensammlungen</mods:title>
+                    </mods:titleInfo>
+                    <mods:recordInfo>
+                      <mods:recordIdentifier source="UBFR">http://www.ub.uni-freiburg.de/dipro/altdruck</mods:recordIdentifier>
+                    </mods:recordInfo>
+                  </mods:relatedItem>
+                  <mods:relatedItem lang="eng" type="series">
+                    <mods:titleInfo>
+                      <mods:title>Alte Drucke und Autorensammlungen</mods:title>
+                    </mods:titleInfo>
+                    <mods:recordInfo>
+                      <mods:recordIdentifier source="UBFR">http://www.ub.uni-freiburg.de/dipro/altdruck</mods:recordIdentifier>
+                    </mods:recordInfo>
+                  </mods:relatedItem>
+                  <mods:relatedItem type="series">
+                    <mods:titleInfo>
+                      <mods:title>Druckschriften</mods:title>
+                    </mods:titleInfo>
+                    <mods:recordInfo>
+                      <mods:recordIdentifier source="UBFR">druckschriften</mods:recordIdentifier>
+                    </mods:recordInfo>
+                  </mods:relatedItem>
+                  <mods:relatedItem type="series">
+                    <mods:titleInfo>
+                      <mods:title>VD 18</mods:title>
+                    </mods:titleInfo>
+                    <mods:recordInfo>
+                      <mods:recordIdentifier source="UBFR">vd18</mods:recordIdentifier>
+                    </mods:recordInfo>
+                  </mods:relatedItem>
+                  <mods:relatedItem type="series">
+                    <mods:titleInfo>
+                      <mods:title>Freiburger historische Bestände - digitalisiert : Alte Drucke und Autorensammlungen</mods:title>
+                    </mods:titleInfo>
+                    <mods:recordInfo>
+                      <mods:recordIdentifier source="UBFR">sammlung11</mods:recordIdentifier>
+                    </mods:recordInfo>
+                  </mods:relatedItem>
+                  <mods:location>
+                    <mods:physicalLocation>Universitätsbibliothek Freiburg, Universitätsbibliothek Freiburg i. Br., M 8925,f</mods:physicalLocation>
+                  </mods:location>
+                  <mods:location>
+                    <mods:url access="object in context">http://dl.ub.uni-freiburg.de/diglit/dunker1781ga</mods:url>
+                  </mods:location>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier source="swb-ppn">486513653</mods:recordIdentifier>
+                  </mods:recordInfo>
+                  <mods:identifier type="urn">urn:nbn:de:bsz:25-digilib-147190</mods:identifier>
+                  <mods:identifier type="vd18">VD18 15655342</mods:identifier>
+                  <mods:abstract lang="ger" html="">
+</mods:abstract>
+                  <mods:abstract lang="eng" html="">
+</mods:abstract>
+                  <mods:note lang="ger" displayLabel="Signatur" type="shelf number">Universitätsbibliothek Freiburg i. Br., M 8925,f</mods:note>
+                  <mods:note lang="eng" displayLabel="Shelf number" type="shelf number">Universitätsbibliothek Freiburg i. Br., M 8925,f</mods:note>
+                  <mods:note lang="ger" type="creation/production credits">
+</mods:note>
+                  <mods:note lang="eng" type="creation/production credits">
+</mods:note>
+                  <mods:identifier type="oai">oai:dl.ub.uni-freiburg.de:14719</mods:identifier>
+                  <mods:classification authority="zvdd.de">druckschriften.dl.ub.uni.freiburg.de</mods:classification>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:dmdSec ID="dmd__dc">
+            <mets:mdWrap MIMETYPE="text/xml" LABEL="Dublin Core Metadata" MDTYPE="DC">
+              <mets:xmlData>
+                <dc:title>Klostergeschichte der Altstadt-Salzwedel: womit die Herren Ephoren, Patronen, Gönner und Freunde der Schule zur Anhörung ... gehorsamst ergebenst einladet</dc:title>
+                <dc:date>1781</dc:date>
+                <dcterms:issued>1781</dcterms:issued>
+                <dc:date>1781-1782</dc:date>
+                <dcterms:issued>1781-1782</dcterms:issued>
+                <dcterms:isPartOf>Alte Drucke und Autorensammlungen</dcterms:isPartOf>
+                <dc:language>ger</dc:language>
+                <dc:type>Text</dc:type>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:dmdSec ID="dmd__dwork">
+            <mets:mdWrap OTHERMDTYPE="private/dwork" MIMETYPE="text/xml" LABEL="dwork specific" MDTYPE="OTHER">
+              <mets:xmlData>
+                <dwork:dwork>
+                  <dwork:projectname>dunker1781ga</dwork:projectname>
+                  <dwork:introImageUrl>http://dl.ub.uni-freiburg.de/diglitData/introimage/dunker1781-1.jpg</dwork:introImageUrl>
+                  <dwork:layoutTemplate>druck</dwork:layoutTemplate>
+                  <dwork:sammlung>11</dwork:sammlung>
+                  <dwork:geschuetzt>0</dwork:geschuetzt>
+                  <dwork:kein_oai/>
+                  <dwork:lizenz>creativecommons-by-sa</dwork:lizenz>
+                  <dwork:footer>UB+DFG</dwork:footer>
+                </dwork:dwork>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="amdSec_complete_01">
+            <mets:rightsMD ID="rightsMD_complete_01">
+              <mets:mdWrap OTHERMDTYPE="DVRIGHTS" MDTYPE="OTHER">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitätsbibliothek Freiburg</dv:owner>
+                    <dv:ownerLogo>http://dl.ub.uni-freiburg.de/diglitData/image/logo-dfgviewer.gif</dv:ownerLogo>
+                    <dv:ownerSiteURL>https://www.ub.uni-freiburg.de/</dv:ownerSiteURL>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="digiprovMD_complete_01">
+              <mets:mdWrap OTHERMDTYPE="DVLINKS" MDTYPE="OTHER">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://katalog.ub.uni-freiburg.de/link/id%3F486513653</dv:reference>
+                    <dv:presentation>http://dl.ub.uni-freiburg.de/diglit/dunker1781ga</dv:presentation>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="INTROIMAGE">
+              <mets:file ID="INTROIMAGE" MIMETYPE="image/jpg">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://dl.ub.uni-freiburg.de/diglitData/introimage/dunker1781-1.jpg"/>
+              </mets:file>
+            </mets:fileGrp>
+            <!--MIN - enthält Imagedateien mit einer Breite zwischen 600 -1000 Pixel. Diese Bildgröße wird angezeigt, wenn im DFG-Viewer aus dem Dokument herausgezoomt wird.-->
+          </mets:fileSec>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ID="log" LABEL="Dunker, Daniel Johann: Klostergeschichte der Altstadt-Salzwedel: womit die Herren Ephoren, Patronen, Gönner und Freunde der Schule zur Anhörung ... gehorsamst ergebenst einladet; Salzwedel, 1781-1782" TYPE="multivolume_work" DMDID="dmd" ADMID="amdSec_complete_01">
+              <mets:div ID="LOG_0002" TYPE="Volume" LABEL="Klostergeschichte der Altstadt-Salzwedel: womit die Herren Ephoren, Patronen, Gönner und Freunde der Schule zur Anhörung ... gehorsamst ergebenst einladet: Schulprüfung welche den 24. April auf dem untern und der Redeübung welche den 25. April auf dem obern Auditorium gehalten werden soll">
+                <mets:mptr xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="http://www.zvdd.de/dms/metsresolver/?PPN=urn:nbn:de:bsz:25-digilib-147214"/>
+              </mets:div>
+              <mets:div ID="LOG_0003" TYPE="Volume" LABEL="Klostergeschichte der Altstadt-Salzwedel: womit die Herren Ephoren, Patronen, Gönner und Freunde der Schule zur Anhörung ... gehorsamst ergebenst einladet: Redeübung welche den 21ten März auf dem obern Auditorium gehalten werden soll">
+                <mets:mptr xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="http://www.zvdd.de/dms/metsresolver/?PPN=urn:nbn:de:bsz:25-digilib-147221"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+        </mets:mets>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/             http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2017-09-11T07:39:19Z</responseDate>
+  <request verb="ListSets">http://oai.amser.org/OAI</request>
+  <ListSets>
+    <set>
+      <setSpec>Language:Arabic</setSpec>
+      <setName>Language: Arabic</setName>
+    </set>
+    <set>
+      <setSpec>Language:Chinese</setSpec>
+      <setName>Language: Chinese</setName>
+    </set>
+    <set>
+      <setSpec>Language:Croatian</setSpec>
+      <setName>Language: Croatian</setName>
+    </set>
+    <set>
+      <setSpec>Language:Czech</setSpec>
+      <setName>Language: Czech</setName>
+    </set>
+    <set>
+      <setSpec>Language:Danish</setSpec>
+      <setName>Language: Danish</setName>
+    </set>
+    <set>
+      <setSpec>Language:Dutch</setSpec>
+      <setName>Language: Dutch</setName>
+    </set>
+    <set>
+      <setSpec>Language:English</setSpec>
+      <setName>Language: English</setName>
+    </set>
+    <set>
+      <setSpec>Language:Finnish</setSpec>
+      <setName>Language: Finnish</setName>
+    </set>
+    <set>
+      <setSpec>Language:French</setSpec>
+      <setName>Language: French</setName>
+    </set>
+    <set>
+      <setSpec>Language:German</setSpec>
+      <setName>Language: German</setName>
+    </set>
+    <set>
+      <setSpec>Language:Greek</setSpec>
+      <setName>Language: Greek</setName>
+    </set>
+    <set>
+      <setSpec>Language:Hungarian</setSpec>
+      <setName>Language: Hungarian</setName>
+    </set>
+    <set>
+      <setSpec>Language:Indonesian</setSpec>
+      <setName>Language: Indonesian</setName>
+    </set>
+    <set>
+      <setSpec>Language:Italian</setSpec>
+      <setName>Language: Italian</setName>
+    </set>
+    <set>
+      <setSpec>Language:Japanese</setSpec>
+      <setName>Language: Japanese</setName>
+    </set>
+    <set>
+      <setSpec>Language:Korean</setSpec>
+      <setName>Language: Korean</setName>
+    </set>
+    <set>
+      <setSpec>Language:Malayalam</setSpec>
+      <setName>Language: Malayalam</setName>
+    </set>
+    <set>
+      <setSpec>Language:Norwegian</setSpec>
+      <setName>Language: Norwegian</setName>
+    </set>
+    <set>
+      <setSpec>Language:Polish</setSpec>
+      <setName>Language: Polish</setName>
+    </set>
+    <set>
+      <setSpec>Language:Portuguese</setSpec>
+      <setName>Language: Portuguese</setName>
+    </set>
+    <set>
+      <setSpec>Language:Romanian</setSpec>
+      <setName>Language: Romanian</setName>
+    </set>
+    <set>
+      <setSpec>Language:Russian</setSpec>
+      <setName>Language: Russian</setName>
+    </set>
+    <set>
+      <setSpec>Language:Spanish</setSpec>
+      <setName>Language: Spanish</setName>
+    </set>
+    <set>
+      <setSpec>Language:Swedish</setSpec>
+      <setName>Language: Swedish</setName>
+    </set>
+    <set>
+      <setSpec>Language:Thai</setSpec>
+      <setName>Language: Thai</setName>
+    </set>
+    <set>
+      <setSpec>Language:Turkish</setSpec>
+      <setName>Language: Turkish</setName>
+    </set>
+    <set>
+      <setSpec>OAI-SQ</setSpec>
+      <setName>OAI-SQ</setName>
+    </set>
+    <set>
+      <setSpec>OAI-SQ-F</setSpec>
+      <setName>OAI-SQ-F</setName>
+    </set>
+  </ListSets>
+</OAI-PMH>

@@ -1,0 +1,834 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/             http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2017-09-11T07:58:25Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="lar">http://oai.amser.org/OAI</request>
+  <ListRecords>
+    <record xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:nsdl_dc="http://ns.nsdl.org/nsdl_dc_v1.01" xmlns:lar="http://ns.nsdl.org/ncs/lar">
+      <header>
+        <identifier>oai:amser.org:AMSER-2</identifier>
+        <datestamp>2004-08-26</datestamp>
+        <setSpec>Language:English</setSpec>
+      </header>
+      <metadata>
+        <record xmlns="http://ns.nsdl.org/ncs/lar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.nsdl.org/ncs/lar http://ns.nsdl.org/ncs/lar/1.00/schemas/lar.xsd">
+          <recordID>oai:amser.org:AMSER-2</recordID>
+          <recordDate>2005-11-02</recordDate>
+          <identifier>https://www.niaid.nih.gov/</identifier>
+          <title>National Institute of Allergy and Infectious Diseases</title>
+          <description>Created over fifty years ago, the National Institute of Allergy and Infectious Diseases (NAID) &amp;quot;conducts and supports basic and applied research to better understand, treat, and ultimately prevent infectious, immunologic, and allergic diseases.&amp;quot; In recent years, the scope of the institute's research activities has expanded to include emerging issues such as the possibility of bioterrorism and West Nile virus. The site contains a wealth of information on the activities of NAID, such as the most recent publications, organizational hierarchy, and funding opportunities for researchers and scholars. The newsroom area is quite thorough, as visitors have access to the database of news releases dating back to 1995 and access to SciBites, which features brief summaries of articles about NAID-funded research, updated weekly. The site is notable for its extensive special section on the growing battery of research on biodefense strategies.</description>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">Health/Medicine</subject>
+          <language>en-US</language>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">application/pdf</format>
+          <audienceRefinement xmlns="http://ns.nsdl.org/ncs/lar">Learner</audienceRefinement>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Informative Text</type>
+          <date type="Published">2005-11-02</date>
+          <contributor role="Publisher">National Institute of Allergy and Infectious Diseases</contributor>
+          <accessRestrictions>Free access</accessRestrictions>
+          <license>
+            <name>Unknown</name>
+            <property>Terms of use unknown</property>
+          </license>
+        </record>
+      </metadata>
+      <about>
+        <searchInfo xmlns="http://scout.wisc.edu/XML/searchInfo/" xsi:schemaLocation="http://scout.wisc.edu/XML/searchInfo/ http://scout.wisc.edu/XML/searchInfo.xsd">
+          <fullRecordLink>http://oai.amser.org//index.php?P=FullRecord&amp;amp;ID=2</fullRecordLink>
+          <searchScore>1</searchScore>
+          <searchScoreScale>1</searchScoreScale>
+          <cumulativeRating>93</cumulativeRating>
+          <cumulativeRatingScale>100</cumulativeRatingScale>
+        </searchInfo>
+      </about>
+    </record>
+    <record xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:nsdl_dc="http://ns.nsdl.org/nsdl_dc_v1.01" xmlns:lar="http://ns.nsdl.org/ncs/lar">
+      <header>
+        <identifier>oai:amser.org:AMSER-3</identifier>
+        <datestamp>2004-09-03</datestamp>
+        <setSpec>Language:English</setSpec>
+      </header>
+      <metadata>
+        <record xmlns="http://ns.nsdl.org/ncs/lar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.nsdl.org/ncs/lar http://ns.nsdl.org/ncs/lar/1.00/schemas/lar.xsd">
+          <recordID>oai:amser.org:AMSER-3</recordID>
+          <recordDate>2005-11-06</recordDate>
+          <identifier>http://www.lib.berkeley.edu/news_events/futuristics/</identifier>
+          <title>Transportation Futuristics: Visionary Designs in Transportation Engineering</title>
+          <description>The human imagination would seem to recognize few boundaries when thinking about interesting forms of transportation, especially some of the rather creative ideas (both proposed and realized) that are contained within this novel and compelling online exhibit created by the staff at the Harmer E. Davis Transportation Library at the University of California at Berkeley. Many of the futuristic designs highlighted within this exhibit were envisioned as ways to overcome existing transportation problems, such as distance, space considerations, and other key factors. The pieces of material culture (such as advertisements, design renderings, and the like) contained here are divided into several sections, such as automotive, helicopter, monorails, and the aptly named &amp;quot;Oddities&amp;quot; area. For transportation buffs or those with an interest in the history of technology, the &amp;quot;Oddities&amp;quot; area should not be missed. Here visitors will find an illustration of the proposed &amp;quot;flying saucer bus&amp;quot; and the intriguing &amp;quot;transplanetary subway&amp;quot;, which was supposed to have stretched from New York to Los Angeles.</description>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">General science</subject>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">Engineering</subject>
+          <language>en-US</language>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">text/html</format>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Higher Education</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Technical Education (Lower Division)</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Technical Education (Upper Division)</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Undergraduate (Lower Division)</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Graduate/Professional</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Undergraduate (Upper Division)</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Vocational/Professional Development Education</educationLevel>
+          <audienceRefinement xmlns="http://ns.nsdl.org/ncs/lar">Educator and learner</audienceRefinement>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Image/Image Set</type>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Informative Text</type>
+          <date type="Published">2005-11-06</date>
+          <contributor role="Publisher">University of California, Berkeley</contributor>
+          <accessRestrictions>Free access</accessRestrictions>
+          <license>
+            <name>Unknown</name>
+            <property>Terms of use unknown</property>
+          </license>
+        </record>
+      </metadata>
+      <about>
+        <searchInfo xmlns="http://scout.wisc.edu/XML/searchInfo/" xsi:schemaLocation="http://scout.wisc.edu/XML/searchInfo/ http://scout.wisc.edu/XML/searchInfo.xsd">
+          <fullRecordLink>http://oai.amser.org//index.php?P=FullRecord&amp;amp;ID=3</fullRecordLink>
+          <searchScore>1</searchScore>
+          <searchScoreScale>1</searchScoreScale>
+          <cumulativeRating>100</cumulativeRating>
+          <cumulativeRatingScale>100</cumulativeRatingScale>
+        </searchInfo>
+      </about>
+    </record>
+    <record xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:nsdl_dc="http://ns.nsdl.org/nsdl_dc_v1.01" xmlns:lar="http://ns.nsdl.org/ncs/lar">
+      <header>
+        <identifier>oai:amser.org:AMSER-4</identifier>
+        <datestamp>2004-09-10</datestamp>
+        <setSpec>Language:English</setSpec>
+      </header>
+      <metadata>
+        <record xmlns="http://ns.nsdl.org/ncs/lar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.nsdl.org/ncs/lar http://ns.nsdl.org/ncs/lar/1.00/schemas/lar.xsd">
+          <recordID>oai:amser.org:AMSER-4</recordID>
+          <recordDate>2005-11-08</recordDate>
+          <identifier>https://commons.bcit.ca/math/examples/</identifier>
+          <title>How is Mathematics Used in Technology?</title>
+          <description>The British Columbia Institute of Technology posts this page on how mathematics is used in technology. A table format allows visitors to explore the relationships between the different areas of mathematics (listed horizontally) and several areas of technology (listed vertically). The applications listed in the table are then linked to a topic area page with more specific examples of how mathematics is used in that area of technology. Examples include the use of Integral Calculus in Chemical Science and the use of Algebra and Geometry in Robotics.  They note that the project is not yet completed, so check for more examples in the future.</description>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">Mathematics</subject>
+          <language>en-US</language>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">text/html</format>
+          <audienceRefinement xmlns="http://ns.nsdl.org/ncs/lar">Learner</audienceRefinement>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Graph</type>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Informative Text</type>
+          <date type="Published">2004</date>
+          <contributor role="Publisher">British Columbia Institute of Technology</contributor>
+          <accessRestrictions>Free access</accessRestrictions>
+          <license>
+            <name>Unknown</name>
+            <property>Terms of use unknown</property>
+          </license>
+        </record>
+      </metadata>
+      <about>
+        <searchInfo xmlns="http://scout.wisc.edu/XML/searchInfo/" xsi:schemaLocation="http://scout.wisc.edu/XML/searchInfo/ http://scout.wisc.edu/XML/searchInfo.xsd">
+          <fullRecordLink>http://oai.amser.org//index.php?P=FullRecord&amp;amp;ID=4</fullRecordLink>
+          <searchScore>1</searchScore>
+          <searchScoreScale>1</searchScoreScale>
+          <cumulativeRating>100</cumulativeRating>
+          <cumulativeRatingScale>100</cumulativeRatingScale>
+        </searchInfo>
+      </about>
+    </record>
+    <record xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:nsdl_dc="http://ns.nsdl.org/nsdl_dc_v1.01" xmlns:lar="http://ns.nsdl.org/ncs/lar">
+      <header>
+        <identifier>oai:amser.org:AMSER-5</identifier>
+        <datestamp>2004-09-10</datestamp>
+        <setSpec>Language:English</setSpec>
+      </header>
+      <metadata>
+        <record xmlns="http://ns.nsdl.org/ncs/lar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.nsdl.org/ncs/lar http://ns.nsdl.org/ncs/lar/1.00/schemas/lar.xsd">
+          <recordID>oai:amser.org:AMSER-5</recordID>
+          <recordDate>2005-11-08</recordDate>
+          <identifier>http://mathforum.org/t2t/</identifier>
+          <title>Teachers2Teachers (Math)</title>
+          <description>Teacher2Teacher is &amp;quot;a peer-mentored question-and-answer service&amp;quot; and intended to serve as &amp;quot;a resource for teachers and parents who have questions about teaching mathematics.&amp;quot; Visitors to the website can search or browse the archived discussions by topic area or grade level, ask a question, discuss math education in the Teachers' Lounge, or look up some Frequently Asked Questions. When posting a message or question, you are asked to provide your name and email. Registration is not required, but will qualify you for a free copy of their newsletter via email. Questions are answered by Teacher2Teacher Associates. The wide range of topics and levels covered here will prove helpful to students or instructors with questions on Developmental Math, ESL instruction, Logic, Calculus and many more.  In addition, anyone interested in becoming a Teacher2Teacher Associate can learn more about how to apply in the About T2T section.</description>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">Mathematics</subject>
+          <language>en-US</language>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">text/html</format>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Elementary School</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Middle School</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">High School</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Higher Education</educationLevel>
+          <audienceRefinement xmlns="http://ns.nsdl.org/ncs/lar">Educator and learner</audienceRefinement>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Informative Text</type>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Demonstration</type>
+          <date type="Published">2005-11-08</date>
+          <contributor role="Publisher">Drexel University</contributor>
+          <contributor role="Publisher">Math Forum</contributor>
+          <accessRestrictions>Free access</accessRestrictions>
+          <license>
+            <name>Unknown</name>
+            <property>Terms of use unknown</property>
+          </license>
+        </record>
+      </metadata>
+      <about>
+        <searchInfo xmlns="http://scout.wisc.edu/XML/searchInfo/" xsi:schemaLocation="http://scout.wisc.edu/XML/searchInfo/ http://scout.wisc.edu/XML/searchInfo.xsd">
+          <fullRecordLink>http://oai.amser.org//index.php?P=FullRecord&amp;amp;ID=5</fullRecordLink>
+          <searchScore>1</searchScore>
+          <searchScoreScale>1</searchScoreScale>
+          <cumulativeRating>100</cumulativeRating>
+          <cumulativeRatingScale>100</cumulativeRatingScale>
+        </searchInfo>
+      </about>
+    </record>
+    <record xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:nsdl_dc="http://ns.nsdl.org/nsdl_dc_v1.01" xmlns:lar="http://ns.nsdl.org/ncs/lar">
+      <header>
+        <identifier>oai:amser.org:AMSER-6</identifier>
+        <datestamp>2004-09-10</datestamp>
+        <setSpec>Language:English</setSpec>
+      </header>
+      <metadata>
+        <record xmlns="http://ns.nsdl.org/ncs/lar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.nsdl.org/ncs/lar http://ns.nsdl.org/ncs/lar/1.00/schemas/lar.xsd">
+          <recordID>oai:amser.org:AMSER-6</recordID>
+          <recordDate>2005-11-08</recordDate>
+          <identifier>http://www.niar.twsu.edu/</identifier>
+          <title>The National Institute for Aviation Research</title>
+          <description>The National Institute for Aviation Research (NIAR) at Wichita State University houses numerous laboratories conducting research and development, education, testing, certification, and technology transfer for the aviation industry. Current research includes Crashworthiness, Dynamic Seat Certification, Airframe Design and Analysis, Composites Material Testing, Aerodynamics Design and Testing, Human Factors, CAD/CAM Education, 3D Prototyping, and Aeroacoustics.  The links from the main page list contact information for the different labs, but the sidebar link to Research Labs will take you to individual websites where some general information on the facilities, projects, and workshops are provided. The laboratory with the most information available online is the Aging Aircraft website. Also, the Wind Tunnel website includes a history and rich description of the tunnels used for research.</description>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">General science</subject>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">Engineering</subject>
+          <language>en-US</language>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">text/html</format>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">application/pdf</format>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Higher Education</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Vocational/Professional Development Education</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Technical Education (Lower Division)</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Technical Education (Upper Division)</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Undergraduate (Lower Division)</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Undergraduate (Upper Division)</educationLevel>
+          <audienceRefinement xmlns="http://ns.nsdl.org/ncs/lar">Educator and learner</audienceRefinement>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Informative Text</type>
+          <date type="Published">2005-11-08</date>
+          <contributor role="Publisher">National Institute for Aviation Research</contributor>
+          <accessRestrictions>Free access</accessRestrictions>
+          <license>
+            <name>Unknown</name>
+            <property>Terms of use unknown</property>
+          </license>
+        </record>
+      </metadata>
+      <about>
+        <searchInfo xmlns="http://scout.wisc.edu/XML/searchInfo/" xsi:schemaLocation="http://scout.wisc.edu/XML/searchInfo/ http://scout.wisc.edu/XML/searchInfo.xsd">
+          <fullRecordLink>http://oai.amser.org//index.php?P=FullRecord&amp;amp;ID=6</fullRecordLink>
+          <searchScore>1</searchScore>
+          <searchScoreScale>1</searchScoreScale>
+        </searchInfo>
+      </about>
+    </record>
+    <record xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:nsdl_dc="http://ns.nsdl.org/nsdl_dc_v1.01" xmlns:lar="http://ns.nsdl.org/ncs/lar">
+      <header>
+        <identifier>oai:amser.org:AMSER-7</identifier>
+        <datestamp>2004-08-26</datestamp>
+        <setSpec>Language:English</setSpec>
+      </header>
+      <metadata>
+        <record xmlns="http://ns.nsdl.org/ncs/lar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.nsdl.org/ncs/lar http://ns.nsdl.org/ncs/lar/1.00/schemas/lar.xsd">
+          <recordID>oai:amser.org:AMSER-7</recordID>
+          <recordDate>2005-11-08</recordDate>
+          <identifier>http://www.curiousmath.com/</identifier>
+          <title>Curious Math</title>
+          <description>The author of Curious Math, Clay Ford, enjoys mathematics. While Ford claims not to be an expert by any means he maintains a fun website full of math tricks and trivia. Examples of postings include how to \&amp;quot;quickly square a number that ends in 5\&amp;quot; and \&amp;quot;why the number 153 in the Bible is such an interesting number.\&amp;quot; Visitors can search a particular subject or browse the Math Topics, which are categorized as Facts, Trivia &amp;amp; Fun, News &amp;amp; Updates, or Tricks, Rules &amp;amp; Methods. The articles are also organized by Top 10 most read, most commented, and most active new submitters. This site will be useful for both students and instructors in early post secondary and developmental math.  Registered users can post comments to the entry, submit a math article on tricks and trivia, contact other users, or join the discussion forum. Registration is free.</description>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">Mathematics</subject>
+          <language>en-US</language>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">text/html</format>
+          <audienceRefinement xmlns="http://ns.nsdl.org/ncs/lar">Educator and learner</audienceRefinement>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Demonstration</type>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Informative Text</type>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Experiment/Lab Activity</type>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Model</type>
+          <date type="Published">2005-11-08</date>
+          <contributor role="Publisher">Curious Math</contributor>
+          <accessRestrictions>Free access</accessRestrictions>
+          <license>
+            <name>Unknown</name>
+            <property>Terms of use unknown</property>
+          </license>
+        </record>
+      </metadata>
+      <about>
+        <searchInfo xmlns="http://scout.wisc.edu/XML/searchInfo/" xsi:schemaLocation="http://scout.wisc.edu/XML/searchInfo/ http://scout.wisc.edu/XML/searchInfo.xsd">
+          <fullRecordLink>http://oai.amser.org//index.php?P=FullRecord&amp;amp;ID=7</fullRecordLink>
+          <searchScore>1</searchScore>
+          <searchScoreScale>1</searchScoreScale>
+        </searchInfo>
+      </about>
+    </record>
+    <record xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:nsdl_dc="http://ns.nsdl.org/nsdl_dc_v1.01" xmlns:lar="http://ns.nsdl.org/ncs/lar">
+      <header>
+        <identifier>oai:amser.org:AMSER-10</identifier>
+        <datestamp>2004-08-12</datestamp>
+        <setSpec>Language:English</setSpec>
+      </header>
+      <metadata>
+        <record xmlns="http://ns.nsdl.org/ncs/lar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.nsdl.org/ncs/lar http://ns.nsdl.org/ncs/lar/1.00/schemas/lar.xsd">
+          <recordID>oai:amser.org:AMSER-10</recordID>
+          <recordDate>2005-11-08</recordDate>
+          <identifier>http://www.jeccomposites.com/</identifier>
+          <title>JEC Composites</title>
+          <description>JEC, &amp;quot;a service provider whose vocation is the international promotion of composite materials around the world, and as both an information transmitter and receiver&amp;quot; offers the JEC Composites website. From here, you can learn about what's new in the composites industry across the world and read about recent technological advances in various sectors such as aeronautics, automotive, and construction. For example, have you heard about the material used to make stab-resistant jackets in Japan? Or the material that was used to construct the bike Lance Armstrong used to win the Tour de France? Those in the industry can also get updates on business news, trends, and upcoming conferences.</description>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">General science</subject>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">Engineering</subject>
+          <language>en-US</language>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">text/html</format>
+          <audienceRefinement xmlns="http://ns.nsdl.org/ncs/lar">Learner</audienceRefinement>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Informative Text</type>
+          <date type="Published">2005-11-08</date>
+          <contributor role="Publisher">JEC Composites.com</contributor>
+          <accessRestrictions>Free access</accessRestrictions>
+          <license>
+            <name>Unknown</name>
+            <property>Terms of use unknown</property>
+          </license>
+        </record>
+      </metadata>
+      <about>
+        <searchInfo xmlns="http://scout.wisc.edu/XML/searchInfo/" xsi:schemaLocation="http://scout.wisc.edu/XML/searchInfo/ http://scout.wisc.edu/XML/searchInfo.xsd">
+          <fullRecordLink>http://oai.amser.org//index.php?P=FullRecord&amp;amp;ID=10</fullRecordLink>
+          <searchScore>1</searchScore>
+          <searchScoreScale>1</searchScoreScale>
+        </searchInfo>
+      </about>
+    </record>
+    <record xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:nsdl_dc="http://ns.nsdl.org/nsdl_dc_v1.01" xmlns:lar="http://ns.nsdl.org/ncs/lar">
+      <header>
+        <identifier>oai:amser.org:AMSER-13</identifier>
+        <datestamp>2004-08-26</datestamp>
+        <setSpec>Language:Dutch</setSpec>
+        <setSpec>Language:English</setSpec>
+      </header>
+      <metadata>
+        <record xmlns="http://ns.nsdl.org/ncs/lar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.nsdl.org/ncs/lar http://ns.nsdl.org/ncs/lar/1.00/schemas/lar.xsd">
+          <recordID>oai:amser.org:AMSER-13</recordID>
+          <recordDate>2006-01-23</recordDate>
+          <identifier>https://www.tudelft.nl/en/ceg/about-the-faculty/departments/hydraulic-engineering/</identifier>
+          <title>TU Delft: Hydraulic Engineering</title>
+          <description>Given the Dutch reputation for water management, it's no surprise that one of their leading technical institutes, The Technische Universiteit Delft, offers a program in Hydraulic Engineering. The website, in both Dutch and English, describes their program as an attempt &amp;quot;to bridge the gap between basic sciences (fluid mechanics and soil mechanics in particular) and practical engineering applications in the design, construction, maintenance, management and eventually the demolition of hydraulic structures.&amp;quot; The Education section of the website posts MSc theses completed by their students. The research section describes current and recently completed research projects and includes a listing of publications, some of which are available to download. The website also has a link to a Hydraulic Engineering portal, which offers various publication databases (some in Dutch only), and the Civil Engineering Knowledge Centre, which provides library access and discussion forums for students and staff of Civil Engineering.</description>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">General science</subject>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">Engineering</subject>
+          <language>en-US</language>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">text/html</format>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Higher Education</educationLevel>
+          <audienceRefinement xmlns="http://ns.nsdl.org/ncs/lar">Learner</audienceRefinement>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Course</type>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Informative Text</type>
+          <date type="Published">2006-01-23</date>
+          <contributor role="Publisher">Technische Universiteit Delft</contributor>
+          <accessRestrictions>Free access</accessRestrictions>
+          <license>
+            <name>Unknown</name>
+            <property>Terms of use unknown</property>
+          </license>
+        </record>
+      </metadata>
+      <about>
+        <searchInfo xmlns="http://scout.wisc.edu/XML/searchInfo/" xsi:schemaLocation="http://scout.wisc.edu/XML/searchInfo/ http://scout.wisc.edu/XML/searchInfo.xsd">
+          <fullRecordLink>http://oai.amser.org//index.php?P=FullRecord&amp;amp;ID=13</fullRecordLink>
+          <searchScore>1</searchScore>
+          <searchScoreScale>1</searchScoreScale>
+        </searchInfo>
+      </about>
+    </record>
+    <record xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:nsdl_dc="http://ns.nsdl.org/nsdl_dc_v1.01" xmlns:lar="http://ns.nsdl.org/ncs/lar">
+      <header>
+        <identifier>oai:amser.org:AMSER-4951</identifier>
+        <datestamp>2007-10-10</datestamp>
+        <setSpec>Language:English</setSpec>
+      </header>
+      <metadata>
+        <record xmlns="http://ns.nsdl.org/ncs/lar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.nsdl.org/ncs/lar http://ns.nsdl.org/ncs/lar/1.00/schemas/lar.xsd">
+          <recordID>oai:amser.org:AMSER-4951</recordID>
+          <recordDate>2007-10-31</recordDate>
+          <identifier>http://www.ciese.org/pathways/rwlo/rwlos/1/Real%20World%20Learning%20Objects/Science/Human%20Genetics%20and%20the%20Dominant%20Trait/overview.html</identifier>
+          <title>Human Genetics and the Dominant Trait</title>
+          <description>The Center for Innovation in Engineering and Science Education presents a series of activities dealing with human genetics and dominant traits.  In this activity, students can make theories and then test those predictions concerning genetics and dominant inherited traits by using a very small sample - classroom peers - and then modeling their collected information on a worldwide project.  By using a small sample, the worldwide survey and reading of information becomes real for the student, while providing the information of a larger sample to compare with the students' conclusions.  The activity includes detailed instructions for the activity, course objectives, potential problem areas, and a guide to assessment of information collected.  This website could be useful for teachers planning lessons or for students designing projects based on class work and class material.</description>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">General science</subject>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">Biological science</subject>
+          <language>en-US</language>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">application/ms-word</format>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">text/html</format>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">application/ms-powerpoint</format>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">application/ms-excel</format>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Higher Education</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">High School</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Technical Education (Lower Division)</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Technical Education (Upper Division)</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Undergraduate (Lower Division)</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Undergraduate (Upper Division)</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Vocational/Professional Development Education</educationLevel>
+          <audienceRefinement xmlns="http://ns.nsdl.org/ncs/lar">Educator and learner</audienceRefinement>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Informative Text</type>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Lesson/Lesson Plan</type>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Student Guide</type>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Instructor Guide/Manual</type>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Test</type>
+          <date type="Published">2007-10-31</date>
+          <contributor role="Creator">Koen, Joshua</contributor>
+          <contributor role="Publisher">Real World Learning Objects (RWLO)</contributor>
+          <contributor role="Publisher">Stevens Institute of Technology</contributor>
+          <accessRestrictions>Free access</accessRestrictions>
+          <license>
+            <name>Unknown</name>
+            <property>Terms of use unknown</property>
+          </license>
+        </record>
+      </metadata>
+      <about>
+        <searchInfo xmlns="http://scout.wisc.edu/XML/searchInfo/" xsi:schemaLocation="http://scout.wisc.edu/XML/searchInfo/ http://scout.wisc.edu/XML/searchInfo.xsd">
+          <fullRecordLink>http://oai.amser.org//index.php?P=FullRecord&amp;amp;ID=4951</fullRecordLink>
+          <searchScore>1</searchScore>
+          <searchScoreScale>1</searchScoreScale>
+        </searchInfo>
+      </about>
+    </record>
+    <record xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:nsdl_dc="http://ns.nsdl.org/nsdl_dc_v1.01" xmlns:lar="http://ns.nsdl.org/ncs/lar">
+      <header>
+        <identifier>oai:amser.org:AMSER-17</identifier>
+        <datestamp>2004-09-23</datestamp>
+        <setSpec>Language:English</setSpec>
+      </header>
+      <metadata>
+        <record xmlns="http://ns.nsdl.org/ncs/lar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.nsdl.org/ncs/lar http://ns.nsdl.org/ncs/lar/1.00/schemas/lar.xsd">
+          <recordID>oai:amser.org:AMSER-17</recordID>
+          <recordDate>2006-01-19</recordDate>
+          <identifier>http://www.icisnyu.org/about.php</identifier>
+          <title>Institute for Civil Infrastructure Systems</title>
+          <description>Located at New York University, the Institute for Civil Infrastructure Systems is dedicated to linking infrastructure professionals with each other, along with providing information to the general public about new insights and interdisciplinary approaches within the complex world of civil infrastructure systems. The site is divided into five sections including those focused on education, information exchange, and research. The education section is a good place to start for first-time visitors as it contains some of the Institute's case studies which have arisen out of various combined meetings with representatives from higher education. The research section contains a number of interdisciplinary reports, including one on environmental health and policy in the South Bronx and another one that addresses the lessons learned from the 9/11 disaster in New York City.</description>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">General science</subject>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">Engineering</subject>
+          <language>en-US</language>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">text/html</format>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">application/pdf</format>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Higher Education</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Elementary School</educationLevel>
+          <audienceRefinement xmlns="http://ns.nsdl.org/ncs/lar">Educator and learner</audienceRefinement>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Informative Text</type>
+          <date type="Published">2002</date>
+          <contributor role="Publisher">New York University</contributor>
+          <accessRestrictions>Free access</accessRestrictions>
+          <license>
+            <name>Unknown</name>
+            <property>Terms of use unknown</property>
+          </license>
+        </record>
+      </metadata>
+      <about>
+        <searchInfo xmlns="http://scout.wisc.edu/XML/searchInfo/" xsi:schemaLocation="http://scout.wisc.edu/XML/searchInfo/ http://scout.wisc.edu/XML/searchInfo.xsd">
+          <fullRecordLink>http://oai.amser.org//index.php?P=FullRecord&amp;amp;ID=17</fullRecordLink>
+          <searchScore>1</searchScore>
+          <searchScoreScale>1</searchScoreScale>
+        </searchInfo>
+      </about>
+    </record>
+    <record xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:nsdl_dc="http://ns.nsdl.org/nsdl_dc_v1.01" xmlns:lar="http://ns.nsdl.org/ncs/lar">
+      <header>
+        <identifier>oai:amser.org:AMSER-7951</identifier>
+        <datestamp>2007-04-26</datestamp>
+        <setSpec>Language:English</setSpec>
+      </header>
+      <metadata>
+        <record xmlns="http://ns.nsdl.org/ncs/lar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.nsdl.org/ncs/lar http://ns.nsdl.org/ncs/lar/1.00/schemas/lar.xsd">
+          <recordID>oai:amser.org:AMSER-7951</recordID>
+          <recordDate>2008-09-25</recordDate>
+          <identifier>http://www.cneu.psu.edu/edToolsVideos.html</identifier>
+          <title>Education Tools:  Nanotechnology Video Modules</title>
+          <description>The Penn State Center for Nanotechnology Education and Utilization (CNEU) is the home of the Pennsylvania Nanofabrication Manufacturing Technology (NMT) Partnership and the National Science Foundation (NSF) Regional Center for Nanofabrication Manufacturing Education, an NSF-sponsored regional Advanced Technology Education (ATE) Center. CNEU is dedicated to research, development, and education across all aspects of micro- and nanotechnology and the resources of the Center are focused on the incorporation of nanotechnology into secondary education, post-secondary education, and industry applications.  Here, CNEU provides a series of Nanotechnology Video Modules which are used as an introduction to nanotechnology courses at CNEU partner institutions.  There are currently six videos available covering introductions, nanotech basics, nanotech industry influence, nanotech educational opportunities, and career choices in nanotech.  For anyone interested in basic nanotech courses or in encouraging students to consider nanotech as a career option these videos might prove useful.</description>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">General science</subject>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">Engineering</subject>
+          <language>en-US</language>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">application/x-shockwave-flash</format>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">text/html</format>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">application/pdf</format>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">video/x-ms-wmv</format>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Higher Education</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Technical Education (Lower Division)</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Technical Education (Upper Division)</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Undergraduate (Lower Division)</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Graduate/Professional</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Undergraduate (Upper Division)</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Vocational/Professional Development Education</educationLevel>
+          <audienceRefinement xmlns="http://ns.nsdl.org/ncs/lar">Educator and learner</audienceRefinement>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Informative Text</type>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Lesson/Lesson Plan</type>
+          <date type="Published">2008-09-25</date>
+          <contributor role="Publisher">Center for Nanotechnology Education and Utilization</contributor>
+          <contributor role="Publisher">Pennsylvania State University</contributor>
+          <accessRestrictions>Free access</accessRestrictions>
+          <license>
+            <name>Unknown</name>
+            <property>Terms of use unknown</property>
+          </license>
+        </record>
+      </metadata>
+      <about>
+        <searchInfo xmlns="http://scout.wisc.edu/XML/searchInfo/" xsi:schemaLocation="http://scout.wisc.edu/XML/searchInfo/ http://scout.wisc.edu/XML/searchInfo.xsd">
+          <fullRecordLink>http://oai.amser.org//index.php?P=FullRecord&amp;amp;ID=7951</fullRecordLink>
+          <searchScore>1</searchScore>
+          <searchScoreScale>1</searchScoreScale>
+        </searchInfo>
+      </about>
+    </record>
+    <record xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:nsdl_dc="http://ns.nsdl.org/nsdl_dc_v1.01" xmlns:lar="http://ns.nsdl.org/ncs/lar">
+      <header>
+        <identifier>oai:amser.org:AMSER-20</identifier>
+        <datestamp>2004-09-30</datestamp>
+        <setSpec>Language:English</setSpec>
+      </header>
+      <metadata>
+        <record xmlns="http://ns.nsdl.org/ncs/lar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.nsdl.org/ncs/lar http://ns.nsdl.org/ncs/lar/1.00/schemas/lar.xsd">
+          <recordID>oai:amser.org:AMSER-20</recordID>
+          <recordDate>2006-01-18</recordDate>
+          <identifier>http://life.bio.sunysb.edu/marinebio/mbweb.html/</identifier>
+          <title>State University of New York at Stony Brook: Marine Biology Web</title>
+          <description>The Marine Biology Web, created by veteran marine biologist Dr. Jeff Levinton of the State University of New York at Stony Brook, is a great educational resource for both curious students and prospective marine biologists. The Becoming a Marine Biologist page gives students frank advice, and a realistic sense of what marine biology is and what marine biologists do. This website contains a sizeable list of hyperlinked marine labs, institutes, graduate programs, and undergraduate programs. A nice list of marine biology-related internships and courses are included as well. The website also features the useful MBREF&#xEF;&#xBF;&#xBD;-A Reference Source for Marine Biology Student Research. The site even links to a system that allows visitors &#xEF;&#xBF;&#xBD;to obtain tidal predictions computed by CO-OPS for more than 3000 water level stations.&#xEF;&#xBF;&#xBD;</description>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">General science</subject>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">Biological science</subject>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">Oceanography</subject>
+          <language>en-US</language>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">text/html</format>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Higher Education</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Vocational/Professional Development Education</educationLevel>
+          <audienceRefinement xmlns="http://ns.nsdl.org/ncs/lar">Learner</audienceRefinement>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Informative Text</type>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Course</type>
+          <date type="Published">2006-01-18</date>
+          <contributor role="Publisher">Stony Brook University</contributor>
+          <accessRestrictions>Free access</accessRestrictions>
+          <license>
+            <name>Unknown</name>
+            <property>Terms of use unknown</property>
+          </license>
+        </record>
+      </metadata>
+      <about>
+        <searchInfo xmlns="http://scout.wisc.edu/XML/searchInfo/" xsi:schemaLocation="http://scout.wisc.edu/XML/searchInfo/ http://scout.wisc.edu/XML/searchInfo.xsd">
+          <fullRecordLink>http://oai.amser.org//index.php?P=FullRecord&amp;amp;ID=20</fullRecordLink>
+          <searchScore>1</searchScore>
+          <searchScoreScale>1</searchScoreScale>
+        </searchInfo>
+      </about>
+    </record>
+    <record xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:nsdl_dc="http://ns.nsdl.org/nsdl_dc_v1.01" xmlns:lar="http://ns.nsdl.org/ncs/lar">
+      <header>
+        <identifier>oai:amser.org:AMSER-22</identifier>
+        <datestamp>2004-09-23</datestamp>
+        <setSpec>Language:English</setSpec>
+      </header>
+      <metadata>
+        <record xmlns="http://ns.nsdl.org/ncs/lar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.nsdl.org/ncs/lar http://ns.nsdl.org/ncs/lar/1.00/schemas/lar.xsd">
+          <recordID>oai:amser.org:AMSER-22</recordID>
+          <recordDate>2006-01-18</recordDate>
+          <identifier>http://strawbale.sustainablesources.com/</identifier>
+          <title>Sustainable Building Sourcebook: Straw Bale</title>
+          <description>The Sustainable Building Sourcebook is an online publication in partnership with the City of Austin, Texas, Green Building Program. This section of the Sourcebook provides information and resources on straw bale construction. The article begins with a definition of straw bale construction as a construction that uses &amp;quot;baled straw from wheat, oats, barley, rye, rice and others in walls covered by stucco....&amp;quot; and proceeds to address building considerations, commercial status, and implementation issues. The authors discuss some of the benefits of this &amp;quot;low cost alternative for building highly insulating walls&amp;quot; and consider some of the common concerns such as financing and public acceptance. A variety of resources for anyone interested in building with straw bales are provided and anyone who already has built one is invited to join the international Straw Bale Registry.</description>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">General science</subject>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">Engineering</subject>
+          <language>en-US</language>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">text/html</format>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Vocational/Professional Development Education</educationLevel>
+          <audienceRefinement xmlns="http://ns.nsdl.org/ncs/lar">Educator and learner</audienceRefinement>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Informative Text</type>
+          <date type="Published">2004</date>
+          <contributor role="Publisher">Sustainable Building Sourcebook</contributor>
+          <accessRestrictions>Free access</accessRestrictions>
+          <license>
+            <name>Unknown</name>
+            <property>Terms of use unknown</property>
+          </license>
+        </record>
+      </metadata>
+      <about>
+        <searchInfo xmlns="http://scout.wisc.edu/XML/searchInfo/" xsi:schemaLocation="http://scout.wisc.edu/XML/searchInfo/ http://scout.wisc.edu/XML/searchInfo.xsd">
+          <fullRecordLink>http://oai.amser.org//index.php?P=FullRecord&amp;amp;ID=22</fullRecordLink>
+          <searchScore>1</searchScore>
+          <searchScoreScale>1</searchScoreScale>
+        </searchInfo>
+      </about>
+    </record>
+    <record xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:nsdl_dc="http://ns.nsdl.org/nsdl_dc_v1.01" xmlns:lar="http://ns.nsdl.org/ncs/lar">
+      <header>
+        <identifier>oai:amser.org:AMSER-23</identifier>
+        <datestamp>2004-09-23</datestamp>
+        <setSpec>Language:English</setSpec>
+      </header>
+      <metadata>
+        <record xmlns="http://ns.nsdl.org/ncs/lar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.nsdl.org/ncs/lar http://ns.nsdl.org/ncs/lar/1.00/schemas/lar.xsd">
+          <recordID>oai:amser.org:AMSER-23</recordID>
+          <recordDate>2006-01-19</recordDate>
+          <identifier>https://www.nrel.gov/wind/</identifier>
+          <title>National Wind Technology Center</title>
+          <description>The National Wind Technology Center (NWTC) is a Colorado-based research facility managed by the National Renewable Energy Laboratory (NREL) for the U.S. Department of Energy. Their goal is &amp;quot;to advance wind power technologies that lower the cost of wind energy through research and development of state-of-the-art wind turbine designs.&amp;quot; The website describes the center's research programs on Applied Research, Turbine Research, and Cooperative Research and Testing. Topics such as aerodynamics, turbulence, modeling, wind turbine technology, and utility grid integration are discussed. The website also describes the organization's relationship with industry and provides information for consumers. The Library includes preprints as well as brochures and fact sheets. Visitors can follow the link to the NREL's Publications Database for more documents by staff and subcontractors of NREL and NWTC.</description>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">General science</subject>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">Engineering</subject>
+          <language>en-US</language>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">application/pdf</format>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Higher Education</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Vocational/Professional Development Education</educationLevel>
+          <audienceRefinement xmlns="http://ns.nsdl.org/ncs/lar">Educator and learner</audienceRefinement>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Informative Text</type>
+          <date type="Published">2006-01-19</date>
+          <contributor role="Publisher">United States. Dept. of Energy.</contributor>
+          <accessRestrictions>Free access</accessRestrictions>
+          <license>
+            <name>Unknown</name>
+            <property>Terms of use unknown</property>
+          </license>
+        </record>
+      </metadata>
+      <about>
+        <searchInfo xmlns="http://scout.wisc.edu/XML/searchInfo/" xsi:schemaLocation="http://scout.wisc.edu/XML/searchInfo/ http://scout.wisc.edu/XML/searchInfo.xsd">
+          <fullRecordLink>http://oai.amser.org//index.php?P=FullRecord&amp;amp;ID=23</fullRecordLink>
+          <searchScore>1</searchScore>
+          <searchScoreScale>1</searchScoreScale>
+        </searchInfo>
+      </about>
+    </record>
+    <record xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:nsdl_dc="http://ns.nsdl.org/nsdl_dc_v1.01" xmlns:lar="http://ns.nsdl.org/ncs/lar">
+      <header>
+        <identifier>oai:amser.org:AMSER-24</identifier>
+        <datestamp>2004-09-23</datestamp>
+        <setSpec>Language:English</setSpec>
+      </header>
+      <metadata>
+        <record xmlns="http://ns.nsdl.org/ncs/lar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.nsdl.org/ncs/lar http://ns.nsdl.org/ncs/lar/1.00/schemas/lar.xsd">
+          <recordID>oai:amser.org:AMSER-24</recordID>
+          <recordDate>2006-01-19</recordDate>
+          <identifier>http://230nsc1.phy-astr.gsu.edu/hbase/hmat.html</identifier>
+          <title>HyperMath</title>
+          <description>HyperMath is &amp;quot;a growing collection of examples of applied mathematics with links to their applications to problems in physics and astronomy.&amp;quot; The author, Carl R. (Rod) Nave of the Department of Physics and Astronomy at Georgia State University, does not claim that the website material is complete, noting that he has been adding to the project on an as-needed basis through the process of developing the HyperPhysics material. (A link will take you to the HyperPhysics site.)  The interactive format lets you choose topics on a diagram and enter numbers to get results. Topics include Trigonometry, Calculus, Differential Equations, Algebra, Geometry, Exponents, Vectors, and Algorithms. Visitors are then presented with formulas, functions, links to related topics and applications, and online forms that will perform some of the calculations as a way to demonstrate the mathematics.</description>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">Mathematics</subject>
+          <language>en-US</language>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">text/html</format>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Higher Education</educationLevel>
+          <audienceRefinement xmlns="http://ns.nsdl.org/ncs/lar">Educator and learner</audienceRefinement>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Graph</type>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Informative Text</type>
+          <date type="Published">2006-01-19</date>
+          <contributor role="Publisher">Georgia State University</contributor>
+          <accessRestrictions>Free access</accessRestrictions>
+          <license>
+            <name>Unknown</name>
+            <property>Terms of use unknown</property>
+          </license>
+        </record>
+      </metadata>
+      <about>
+        <searchInfo xmlns="http://scout.wisc.edu/XML/searchInfo/" xsi:schemaLocation="http://scout.wisc.edu/XML/searchInfo/ http://scout.wisc.edu/XML/searchInfo.xsd">
+          <fullRecordLink>http://oai.amser.org//index.php?P=FullRecord&amp;amp;ID=24</fullRecordLink>
+          <searchScore>1</searchScore>
+          <searchScoreScale>1</searchScoreScale>
+        </searchInfo>
+      </about>
+    </record>
+    <record xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:nsdl_dc="http://ns.nsdl.org/nsdl_dc_v1.01" xmlns:lar="http://ns.nsdl.org/ncs/lar">
+      <header>
+        <identifier>oai:amser.org:AMSER-26</identifier>
+        <datestamp>2004-09-23</datestamp>
+        <setSpec>Language:English</setSpec>
+      </header>
+      <metadata>
+        <record xmlns="http://ns.nsdl.org/ncs/lar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.nsdl.org/ncs/lar http://ns.nsdl.org/ncs/lar/1.00/schemas/lar.xsd">
+          <recordID>oai:amser.org:AMSER-26</recordID>
+          <recordDate>2006-11-08</recordDate>
+          <identifier>https://ocw.mit.edu/courses/mathematics/</identifier>
+          <title>MIT OpenCourseWare: Mathematics</title>
+          <description>The Massachusetts Institute of Technology, with funding from the William and Flora Hewlett Foundation, the Andrew W. Mellon Foundation, and MIT, has launched this &amp;quot;large-scale, Web-based electronic publishing initiative.&amp;quot; The website posts lecture notes, problem sets, and other materials from courses across the MIT campus. This section highlights MIT's undergraduate and graduate program in Mathematics. Courses are listed by title and include topics such as Differential Analysis, Linear Algebra, and Statistical Inference. The materials serve as valuable resources for educators, students, or anyone interested in learning more about these topics.</description>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">Mathematics</subject>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">Education</subject>
+          <language>en-US</language>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">application/pdf</format>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Higher Education</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Technical Education (Lower Division)</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Technical Education (Upper Division)</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Undergraduate (Lower Division)</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Graduate/Professional</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Undergraduate (Upper Division)</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Vocational/Professional Development Education</educationLevel>
+          <audienceRefinement xmlns="http://ns.nsdl.org/ncs/lar">Educator and learner</audienceRefinement>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Tutorial</type>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Course</type>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Informative Text</type>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Lesson/Lesson Plan</type>
+          <date type="Published">2005</date>
+          <contributor role="Publisher">Massachusetts Institute of Technology</contributor>
+          <accessRestrictions>Free access</accessRestrictions>
+          <license>
+            <name>Unknown</name>
+            <property>Terms of use unknown</property>
+          </license>
+        </record>
+      </metadata>
+      <about>
+        <searchInfo xmlns="http://scout.wisc.edu/XML/searchInfo/" xsi:schemaLocation="http://scout.wisc.edu/XML/searchInfo/ http://scout.wisc.edu/XML/searchInfo.xsd">
+          <fullRecordLink>http://oai.amser.org//index.php?P=FullRecord&amp;amp;ID=26</fullRecordLink>
+          <searchScore>1</searchScore>
+          <searchScoreScale>1</searchScoreScale>
+        </searchInfo>
+      </about>
+    </record>
+    <record xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:nsdl_dc="http://ns.nsdl.org/nsdl_dc_v1.01" xmlns:lar="http://ns.nsdl.org/ncs/lar">
+      <header>
+        <identifier>oai:amser.org:AMSER-27</identifier>
+        <datestamp>2004-09-23</datestamp>
+        <setSpec>Language:English</setSpec>
+      </header>
+      <metadata>
+        <record xmlns="http://ns.nsdl.org/ncs/lar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.nsdl.org/ncs/lar http://ns.nsdl.org/ncs/lar/1.00/schemas/lar.xsd">
+          <recordID>oai:amser.org:AMSER-27</recordID>
+          <recordDate>2006-02-02</recordDate>
+          <identifier>https://www.dfrc.nasa.gov/Gallery/Photo/index.html</identifier>
+          <title>Dryden Aircraft Photo Collection</title>
+          <description>Any lover of airplanes is bound to enjoy this collection of digitized photos &#xEF;&#xBF;&#xBD;of many of the unique research aircraft&#xEF;&#xBF;&#xBD; from the NASA Dryden Flight Research Center in Edwards, California. The photos go back to the 1940s and into the present. Multiple resolutions are available. The collection is regularly updated. Visitors can browse the entire list alphabetically, or go right to the most recent postings in &#xEF;&#xBF;&#xBD;What&#xEF;&#xBF;&#xBD;s New&#xEF;&#xBF;&#xBD; or check out the Slide Show of selected photos. Each photo is accompanied by a short description of the aircraft's flight history. Some other miscellaneous photos include the shock wave of a T-38 at Mach 1.1 and photos of Dryden pilots.</description>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">General science</subject>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">Engineering</subject>
+          <language>en-US</language>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">text/html</format>
+          <audienceRefinement xmlns="http://ns.nsdl.org/ncs/lar">Educator and learner</audienceRefinement>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Data</type>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Image/Image Set</type>
+          <date type="Published">2006-02-02</date>
+          <contributor role="Publisher">Dryden Flight Research Center</contributor>
+          <accessRestrictions>Free access</accessRestrictions>
+          <license>
+            <name>Unknown</name>
+            <property>Terms of use unknown</property>
+          </license>
+        </record>
+      </metadata>
+      <about>
+        <searchInfo xmlns="http://scout.wisc.edu/XML/searchInfo/" xsi:schemaLocation="http://scout.wisc.edu/XML/searchInfo/ http://scout.wisc.edu/XML/searchInfo.xsd">
+          <fullRecordLink>http://oai.amser.org//index.php?P=FullRecord&amp;amp;ID=27</fullRecordLink>
+          <searchScore>1</searchScore>
+          <searchScoreScale>1</searchScoreScale>
+          <cumulativeRating>100</cumulativeRating>
+          <cumulativeRatingScale>100</cumulativeRatingScale>
+        </searchInfo>
+      </about>
+    </record>
+    <record xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:nsdl_dc="http://ns.nsdl.org/nsdl_dc_v1.01" xmlns:lar="http://ns.nsdl.org/ncs/lar">
+      <header>
+        <identifier>oai:amser.org:AMSER-28</identifier>
+        <datestamp>2004-08-12</datestamp>
+        <setSpec>Language:English</setSpec>
+      </header>
+      <metadata>
+        <record xmlns="http://ns.nsdl.org/ncs/lar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.nsdl.org/ncs/lar http://ns.nsdl.org/ncs/lar/1.00/schemas/lar.xsd">
+          <recordID>oai:amser.org:AMSER-28</recordID>
+          <recordDate>2006-01-19</recordDate>
+          <identifier>http://www.materials.ac.uk/guides/index.asp</identifier>
+          <title>United Kingdom Center for Materials Education: 12 Guides for Lecturers</title>
+          <description>United Kingdom Center for Materials Education offers its 12 Guides for Lecturers free online. The guide begins with a section on attracting materials students by working with schools and the wider community. Another section discusses ways to teach materials engineering, taking the perspective that it's a more complex activity than deciding on a list of topics to teach, but also involves Developing Professional Skills. Other sections focus on specialized curricula, such as Materials for Engineers and Materials Chemistry, or on instructional strategies, such as tutorials, labs, case studies, problem based learning or distance learning. Finally, two sections deal with assessment. One section addresses Assessing Materials Students in ways that &amp;quot;do in fact give marks for those things we want to acknowledge, rather than those aspects that are simply easy to assess&amp;quot; while another section offers tools for evaluating a materials course to &amp;quot;enable you to develop an improved course for next year's cohort.&amp;quot;</description>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">General science</subject>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">Engineering</subject>
+          <language>en-US</language>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">text/html</format>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Higher Education</educationLevel>
+          <audienceRefinement xmlns="http://ns.nsdl.org/ncs/lar">Learner</audienceRefinement>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Informative Text</type>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Lesson/Lesson Plan</type>
+          <date type="Published">2006-01-19</date>
+          <contributor role="Publisher">United Kingdom Center for Materials Education</contributor>
+          <accessRestrictions>Free access</accessRestrictions>
+          <license>
+            <name>Unknown</name>
+            <property>Terms of use unknown</property>
+          </license>
+        </record>
+      </metadata>
+      <about>
+        <searchInfo xmlns="http://scout.wisc.edu/XML/searchInfo/" xsi:schemaLocation="http://scout.wisc.edu/XML/searchInfo/ http://scout.wisc.edu/XML/searchInfo.xsd">
+          <fullRecordLink>http://oai.amser.org//index.php?P=FullRecord&amp;amp;ID=28</fullRecordLink>
+          <searchScore>1</searchScore>
+          <searchScoreScale>1</searchScoreScale>
+        </searchInfo>
+      </about>
+    </record>
+    <record xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:nsdl_dc="http://ns.nsdl.org/nsdl_dc_v1.01" xmlns:lar="http://ns.nsdl.org/ncs/lar">
+      <header>
+        <identifier>oai:amser.org:AMSER-7952</identifier>
+        <datestamp>2007-04-26</datestamp>
+        <setSpec>Language:English</setSpec>
+      </header>
+      <metadata>
+        <record xmlns="http://ns.nsdl.org/ncs/lar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.nsdl.org/ncs/lar http://ns.nsdl.org/ncs/lar/1.00/schemas/lar.xsd">
+          <recordID>oai:amser.org:AMSER-7952</recordID>
+          <recordDate>2008-09-24</recordDate>
+          <identifier>http://www.cneu.psu.edu/default.htm</identifier>
+          <title>Center for Nanotechnology Education and Utilization (CNEU)</title>
+          <description>The Penn State Center for Nanotechnology Education and Utilization (CNEU) is the home of the Pennsylvania Nanofabrication Manufacturing Technology (NMT) Partnership and the National Science Foundation (NSF) Regional Center for Nanofabrication Manufacturing Education, an NSF-sponsored regional Advanced Technology Education (ATE) Center. The Center for Nanotechnology Education and Utilization (CNEU) is dedicated to research, development, and education across all aspects of micro- and nanotechnology.  The resources of the Center for Nanotechnology Education and Utilization (CNEU) are focused on the incorporation of nanotechnology into secondary education, post-secondary education, and industry applications.  On their home site visitors will find news updates, educational tools, information on workshops and nanotech camps, and further nanotechnology links and resources.</description>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">General science</subject>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">Engineering</subject>
+          <language>en-US</language>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">application/x-shockwave-flash</format>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">text/html</format>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">application/pdf</format>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">video/x-ms-wmv</format>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Higher Education</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Technical Education (Lower Division)</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Technical Education (Upper Division)</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Undergraduate (Lower Division)</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Graduate/Professional</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Undergraduate (Upper Division)</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Vocational/Professional Development Education</educationLevel>
+          <audienceRefinement xmlns="http://ns.nsdl.org/ncs/lar">Educator and learner</audienceRefinement>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Informative Text</type>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Lesson/Lesson Plan</type>
+          <date type="Published">2008-09-24</date>
+          <contributor role="Publisher">Center for Nanotechnology Education and Utilization</contributor>
+          <contributor role="Publisher">Pennsylvania State University</contributor>
+          <accessRestrictions>Free access</accessRestrictions>
+          <license>
+            <name>Unknown</name>
+            <property>Terms of use unknown</property>
+          </license>
+        </record>
+      </metadata>
+      <about>
+        <searchInfo xmlns="http://scout.wisc.edu/XML/searchInfo/" xsi:schemaLocation="http://scout.wisc.edu/XML/searchInfo/ http://scout.wisc.edu/XML/searchInfo.xsd">
+          <fullRecordLink>http://oai.amser.org//index.php?P=FullRecord&amp;amp;ID=7952</fullRecordLink>
+          <searchScore>1</searchScore>
+          <searchScoreScale>1</searchScoreScale>
+        </searchInfo>
+      </about>
+    </record>
+    <record xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:nsdl_dc="http://ns.nsdl.org/nsdl_dc_v1.01" xmlns:lar="http://ns.nsdl.org/ncs/lar">
+      <header>
+        <identifier>oai:amser.org:AMSER-7954</identifier>
+        <datestamp>2008-09-23</datestamp>
+        <setSpec>Language:English</setSpec>
+      </header>
+      <metadata>
+        <record xmlns="http://ns.nsdl.org/ncs/lar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.nsdl.org/ncs/lar http://ns.nsdl.org/ncs/lar/1.00/schemas/lar.xsd">
+          <recordID>oai:amser.org:AMSER-7954</recordID>
+          <recordDate>2008-10-22</recordDate>
+          <identifier>http://betsimodel.org/pdf/outreach_hs_activities_restrictionenzymelab.pdf</identifier>
+          <title>Restriction Enzyme Mapping Lab</title>
+          <description>This laboratory activity, by the Biotechnology Education and Training Sequence Investment (BETSI) project at Southwestern College, walks students and educators through the procedure of restriction enzyme mapping.  Restriction enzymes are found in bacteria and &amp;quot;cleave the double helix of DNA at specific places.&amp;quot;  This activity, which is broken up into two parts, allows students to observe this process by presenting specific procedure steps and illustrations to guide them.  There is also a worksheet for students to complete: Analysis of a Restriction Enzyme Digest of a Plasmid.  This is a helpful activity for any biotechnology classroom to give students hands-on experiences with enzymes and the reconstruction of recombinant DNA molecules.</description>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">General science</subject>
+          <subject xmlns="http://ns.nsdl.org/ncs/lar">Biological science</subject>
+          <language>en-US</language>
+          <format xmlns="http://ns.nsdl.org/ncs/lar">application/pdf</format>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Higher Education</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">High School</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Technical Education (Lower Division)</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Technical Education (Upper Division)</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Undergraduate (Lower Division)</educationLevel>
+          <educationLevel xmlns="http://ns.nsdl.org/ncs/lar">Vocational/Professional Development Education</educationLevel>
+          <audienceRefinement xmlns="http://ns.nsdl.org/ncs/lar">Educator and learner</audienceRefinement>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Informative Text</type>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Experiment/Lab Activity</type>
+          <type xmlns="http://ns.nsdl.org/ncs/lar">Lesson/Lesson Plan</type>
+          <date type="Published">2008</date>
+          <contributor role="Publisher">Southwestern College</contributor>
+          <accessRestrictions>Free access</accessRestrictions>
+          <license>
+            <name>Unknown</name>
+            <property>Terms of use unknown</property>
+          </license>
+        </record>
+      </metadata>
+      <about>
+        <searchInfo xmlns="http://scout.wisc.edu/XML/searchInfo/" xsi:schemaLocation="http://scout.wisc.edu/XML/searchInfo/ http://scout.wisc.edu/XML/searchInfo.xsd">
+          <fullRecordLink>http://oai.amser.org//index.php?P=FullRecord&amp;amp;ID=7954</fullRecordLink>
+          <searchScore>1</searchScore>
+          <searchScoreScale>1</searchScoreScale>
+        </searchInfo>
+      </about>
+    </record>
+    <resumptionToken>-_--_-lar-_--_-20</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

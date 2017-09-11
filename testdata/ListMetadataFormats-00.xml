@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/             http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2017-09-11T07:42:56Z</responseDate>
+  <request verb="ListMetadataFormats">http://oai.amser.org/OAI</request>
+  <ListMetadataFormats>
+    <metadataFormat>
+      <metadataPrefix>oai_dc</metadataPrefix>
+      <schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</schema>
+      <metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/</metadataNamespace>
+    </metadataFormat>
+    <metadataFormat>
+      <metadataPrefix>nsdl_dc</metadataPrefix>
+      <schema>http://ns.nsdl.org/schemas/nsdl_dc/nsdl_dc_v1.01.xsd</schema>
+      <metadataNamespace>http://ns.nsdl.org/nsdl_dc_v1.01</metadataNamespace>
+    </metadataFormat>
+    <metadataFormat>
+      <metadataPrefix>native_appliedm</metadataPrefix>
+      <schema>http://amser.org/index.php/XSD/file/path/goes/here.xsd</schema>
+      <metadataNamespace>http://amser.org/index.php/appliedm</metadataNamespace>
+    </metadataFormat>
+    <metadataFormat>
+      <metadataPrefix>lar</metadataPrefix>
+      <schema>http://ns.nsdl.org/ncs/lar/1.00/schemas/lar.xsd</schema>
+      <metadataNamespace>http://ns.nsdl.org/ncs/lar</metadataNamespace>
+    </metadataFormat>
+  </ListMetadataFormats>
+</OAI-PMH>

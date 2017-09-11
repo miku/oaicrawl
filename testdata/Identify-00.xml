@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2017-09-11T10:12:18Z</responseDate>
+  <request verb="Identify">http://repository.tufs.ac.jp/dspace-oai/request</request>
+  <Identify>
+    <repositoryName>Prometheus-Academic Collections</repositoryName>
+    <baseURL>http://repository.tufs.ac.jp/dspace-oai/request</baseURL>
+    <protocolVersion>2.0</protocolVersion>
+    <adminEmail>tosho-joho@tufs.ac.jp</adminEmail>
+    <earliestDatestamp>2001-01-01T00:00:00Z</earliestDatestamp>
+    <deletedRecord>persistent</deletedRecord>
+    <granularity>YYYY-MM-DDThh:mm:ssZ</granularity>
+    <compression>gzip</compression>
+    <compression>deflate</compression>
+    <description>
+      <toolkit xmlns="http://oai.dlib.vt.edu/OAI/metadata/toolkit" xsi:schemaLocation="http://oai.dlib.vt.edu/OAI/metadata/toolkit http://oai.dlib.vt.edu/OAI/metadata/toolkit.xsd">
+        <title>OCLC's OAICat Repository Framework</title>
+        <author>
+          <name>Jeffrey A. Young</name>
+          <email>jyoung@oclc.org</email>
+          <institution>OCLC</institution>
+        </author>
+        <version>1.5.38</version>
+        <toolkitIcon>http://alcme.oclc.org/oaicat/oaicat_icon.gif</toolkitIcon>
+        <URL>http://www.oclc.org/research/software/oai/cat.shtm</URL>
+      </toolkit>
+    </description>
+  </Identify>
+</OAI-PMH>
