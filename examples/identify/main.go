@@ -20,7 +20,7 @@ import (
 	"os"
 	"text/tabwriter"
 
-	"github.com/miku/haprot"
+	"github.com/miku/oaicrawl"
 )
 
 func main() {
@@ -29,7 +29,7 @@ func main() {
 		log.Fatal(err)
 	}
 	defer resp.Body.Close()
-	var ir haprot.IdentifyResponse
+	var ir oaicrawl.IdentifyResponse
 	if err := xml.NewDecoder(resp.Body).Decode(&ir); err != nil {
 		log.Fatal(err)
 	}

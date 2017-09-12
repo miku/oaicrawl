@@ -30,7 +30,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/miku/haprot"
+	"github.com/miku/oaicrawl"
 )
 
 func main() {
@@ -39,7 +39,7 @@ func main() {
 		log.Fatal(err)
 	}
 	defer resp.Body.Close()
-	var lsr haprot.ListSetsResponse
+	var lsr oaicrawl.ListSetsResponse
 	if err := xml.NewDecoder(resp.Body).Decode(&lsr); err != nil {
 		log.Fatal(err)
 	}

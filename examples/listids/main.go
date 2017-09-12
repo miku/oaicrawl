@@ -17,7 +17,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/miku/haprot"
+	"github.com/miku/oaicrawl"
 )
 
 func main() {
@@ -26,7 +26,7 @@ func main() {
 		log.Fatal(err)
 	}
 	defer resp.Body.Close()
-	var lir haprot.ListIdentifiersResponse
+	var lir oaicrawl.ListIdentifiersResponse
 	if err := xml.NewDecoder(resp.Body).Decode(&lir); err != nil {
 		log.Fatal(err)
 	}
