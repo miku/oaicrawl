@@ -1,5 +1,5 @@
 Summary:    OAI harvester for difficult endpoints.
-Name:       metha
+Name:       oaicrawl
 Version:    0.1.0
 Release:    0
 License:    GPL
