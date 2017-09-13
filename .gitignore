@@ -2,3 +2,4 @@
 oaicrawl*.deb
 oaicrawl*.rpm
 /packaging/deb/oaicrawl/usr/*
+/vendor
