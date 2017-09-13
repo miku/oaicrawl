@@ -21,7 +21,7 @@ var (
 	verbose        = flag.Bool("verbose", false, "more logging")
 	version        = flag.Bool("version", false, "show version")
 	bestEffort     = flag.Bool("b", false, "create best effort data set")
-	maxElapsedTime = flag.Duration("e", 10*time.Second, "max elapsed time")
+	maxElapsedTime = flag.Duration("e", 12*time.Second, "max elapsed time")
 	numWorkers     = flag.Int("w", 4*runtime.NumCPU(), "number of parallel connections")
 )
 
