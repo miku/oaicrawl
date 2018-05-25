@@ -6,7 +6,8 @@ PKGNAME = oaicrawl
 all: $(TARGETS)
 
 $(TARGETS): %: cmd/%/main.go
-	go build -o $@ $< 
+	go get ./...
+	go build -o $@ $<
 
 clean:
 	rm -f $(TARGETS)
