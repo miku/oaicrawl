@@ -1,0 +1,12 @@
+github.com/cenkalti/backoff v1.1.0 h1:QnvVp8ikKCDWOsFheytRCoYWYPO/ObCTBGxT19Hc+yE=
+github.com/cenkalti/backoff v1.1.0/go.mod h1:90ReRw6GdpyfrHakVjL/QHaoyV4aDUVVkXQJJJ3NXXM=
+github.com/sethgrid/pester v0.0.0-20170816164208-a86a2d88f4dc h1:fpe8AiNbjeFqjm9DCMUI0gAZ4BASisYIUrXI8uk/QBI=
+github.com/sethgrid/pester v0.0.0-20170816164208-a86a2d88f4dc/go.mod h1:Ad7IjTpvzZO8Fl0vh9AzQ+j/jYZfyp2diGwI8m5q+ns=
+github.com/sirupsen/logrus v1.0.3 h1:B5C/igNWoiULof20pKfY4VntcIPqKuwEmoLZrabbUrc=
+github.com/sirupsen/logrus v1.0.3/go.mod h1:pMByvHTf9Beacp5x1UXfOR9xyW/9antXMhjMPG0dEzc=
+golang.org/x/crypto v0.0.0-20170912191825-faadfbdc0353 h1:Z77uxQphZ4rZSnkiGXW8W6rMoNgpqh6jHABEXrxRNzg=
+golang.org/x/crypto v0.0.0-20170912191825-faadfbdc0353/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
+golang.org/x/net v0.0.0-20170912211736-b129b8e0fbeb h1:m69senu9c2BRfI116I0TFnFMxdXB49W6Fwh/zbQsRXA=
+golang.org/x/net v0.0.0-20170912211736-b129b8e0fbeb/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
+golang.org/x/sys v0.0.0-20170912235404-062cd7e4e682 h1:11eWuNtQK8nv2LbFggEubMthxp+Lc+oqA3ZLD6DQFew=
+golang.org/x/sys v0.0.0-20170912235404-062cd7e4e682/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
